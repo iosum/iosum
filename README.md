@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m a chaos software developer who learn about everything in order to meet users' needs. Love memes, watching Netflix,...
+
+[Here](https://www.caseyho.dev) is my blog to document all things that I've tried to learn.
+
+⚡⚡⚡
+
 <!--
 **iosum/iosum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
