@@ -2,7 +2,7 @@
 
 I’m a chaotic software developer who learn about everything in order to meet users' needs. Love memes, watching Netflix,...
 
-[Here](https://www.caseyho.dev) is my blog to document all things that I've tried to learn.
+[Here](https://iosum.github.io/) is my blog to document all things that I've tried to learn.
 
 ⚡⚡⚡
 
